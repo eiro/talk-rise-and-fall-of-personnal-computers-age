@@ -1,58 +1,14 @@
-## The rise and fall of personnal computers age
-
-     ── June 14-20 2021 ─────────────────────
-     ┌───┐  ▄ ┌─┐   ┌®──┐┌────┐ ▄ ┌───┐┌──┬─┐
-     │ ─ └┐┌─┐│ └──┐│ ┌─┘│  ──┤┌─┐│  ┌┘│  │ │
-     │ ── ││ ││  ──┤│ │  │  ──┤│ ││  └┐│    │
-     └────┘└─┘└────┘└─┘  └────┘└─┘└───┘└──┴─┘
-     ── conference  in  gopherspace ─────────
-
-     now available in low resolution: 70x30
-     (free of charge)
-
-## La marseillaise
-
-Dear __20h__,
-
-    the french national anthem "La marseillaise",
-    is a call of mass murdering. I hate that.
-
-## Auferstanden aus Ruinen
-
-% https://en.wikipedia.org/wiki/Auferstanden_aus_Ruinen
-
-    Risen from the ruins
-    and facing the future,
-    let us serve you for the good,
-    Bitreich, our country
-    -------------------------------
-    Auferstanden aus Ruinen
-    Und der Zukunft zugewandt,
-    Lass uns dir zum Guten dienen,
-    Bitreich, unserm Vaterland.
-
-## What i expect from a national anthem
-
-    Let all paths by peace be lighted,
-    That no mother shall again
-    Mourn her son in woe.
-    -------------------------------
-    Lasst das Licht des Friedens scheinen,
-    Dass nie eine Mutter mehr
-    Ihren Sohn beweint.
-
 ## who am i
 
   Marc Chantreux
-  Born and raised in Elsass
 
-  Work for Renater (French NREN)
-% https://en.wikipedia.org/wiki/National_research_and_education_network
+  University of Strasbourg
+    Advanced Services for Research and Education
 
-      Floss Evangelist
+  Spare time on freedom and convivialism
 
-      Founder of the Green IT WG
-        https://replay.jres.org/videos/watch/e787327a-d922-4891-9968-203ee34d4eba
+  Please contact me!
+    mc (the weird a) unistra /look ma! a dot/ fr
 
 ## birthdates
 
@@ -281,20 +237,57 @@ First Job
 
     * Webmastering
         prototyping with dreamweaver/photoshop
+#pause
+        production  with dreamweaver generated code
+        (as long as IE renders correctly)
 
-    "Stop your linux thing, Microsoft won"
+## words of widsom
+
+    "Stop your linux thing, Microsoft won it all"
      -- my former boss
 
-Applying new jobs
+## Applying new jobs
 
-    word was the only known file format for resumes
+    no txt, no ps, no pdf, not even html:
+    doc files (MS word) were standard format for resumes
 
-## Open source returns
+## Open source returns ...
+
+~ 1995
+    HTML < 4 was a doc format (almost no CSS, no JS)
+
+    the IT who setup the http service and wrote a
+    makefile to run some perl scripts/m4 macros.
+    no form, no behavior.
+
+~ 2000
 
     LAMP (linux, apache, mysql, PHP)
     then python and now Javascript stack
 
-    yet ...
+## software can inspire culture, not fix it
+
+~ 20xx (i really didn't care a this point)
+
+* info became commercials
+* inline images on modems
+* broken CSS + <table> + containers * 100 =
+  the worse publication system ever
+* mediocrity becames the norm
+* security holes
+
+Webmasters replaced by web teams (front, back, …)
+
+~ 2015
+
+    Revolution: static generation:
+    faster, more secure, easier to deploy and maintain
+
+#pause
+    the IT who setup the http service and use
+    a twisted build system to do the things we did in 90's
+    with a perl script.
+    *hopefully* less than 2Mb of CSS/JS
 
 ## Rise of online services
 
