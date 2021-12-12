@@ -1,0 +1,18 @@
+diff --git a/md2point.c b/md2point.c
+index 87ba18f..1cc40c3 100644
+--- a/md2point.c
++++ b/md2point.c
+@@ -50,12 +50,7 @@ void
+ fprintunderline(FILE *fp, const char *str)
+ {
+ 	size_t i, len;
+-
+-	fprintf(fp, "\n  %s\n  ", str);
+-	len = utf8strlen(str);
+-	for (i = 0; i <= len; ++i)
+-		fputs("=", fp);
+-	fputs("\n\n", fp);
++	fprintf(fp,"__ %s  _____________\n", str);
+ }
+ 
+ void
